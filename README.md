@@ -112,9 +112,9 @@ Neither `.env` file is committed — only `.env.example`.
 
 Any free-tier combination works. Suggested:
 
-- **Database:** [Neon](https://neon.tech) or [Supabase](https://supabase.com) (free Postgres)
-- **Backend:** [Render](https://render.com) or [Railway](https://railway.app) -> Deployment Link : https://mini-erp-crm-kb1s.onrender.com
-- **Frontend:** [Vercel](https://vercel.com) or [Netlify](https://netlify.com) -> Deployment Link : https://mini-erp-crm-ten-teal.vercel.app
+- **Database:** [Neon](https://neon.tech) (free Postgres)
+- **Backend:** [Render](https://render.com)  -> Deployment Link : https://mini-erp-crm-kb1s.onrender.com
+- **Frontend:** [Vercel](https://vercel.com)  -> Deployment Link : https://mini-erp-crm-ten-teal.vercel.app
 
 ### Steps
 
