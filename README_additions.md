@@ -69,17 +69,3 @@ npm run dev
 ```
 
 ---
-
-## Screenshots
-
-| Login | Dashboard |
-|---|---|
-| ![Login](./docs/screenshots/login.png) | ![Dashboard](./docs/screenshots/dashboard.png) |
-
-| Customers | Products |
-|---|---|
-| ![Customers](./docs/screenshots/customers.png) | ![Products](./docs/screenshots/products.png) |
-
-**Sales Challans**
-
-![Challans](./docs/screenshots/challans.png)
