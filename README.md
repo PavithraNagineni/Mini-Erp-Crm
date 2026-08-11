@@ -112,7 +112,7 @@ Neither `.env` file is committed — only `.env.example`.
 
 Any free-tier combination works. Suggested:
 
-- **Database:** [Neon](https://neon.tech) (free Postgres)
+- **Database:** [Neon](https://neon.tech) -> https://console.neon.tech/app/org-bold-grass-78448416/projects
 - **Backend:** [Render](https://render.com)  -> Deployment Link : https://mini-erp-crm-kb1s.onrender.com
 - **Frontend:** [Vercel](https://vercel.com)  -> Deployment Link : https://mini-erp-crm-ten-teal.vercel.app
 
