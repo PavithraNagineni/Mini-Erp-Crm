@@ -7,6 +7,10 @@ sales challans, and role-based access for Admin, Sales, Warehouse, and Accounts 
 - **Frontend:** React, TypeScript, Vite, React Router, Axios
 - **Repo layout:** `backend/` (REST API) and `frontend/` (admin UI), each independently deployable
 
+## Frontend Deployment : mini-erp-crm-ten-teal.vercel.app
+
+## Backend Deployment :  https://mini-erp-crm-kb1s.onrender.com
+
 ---
 
 ## 1. Architecture overview
