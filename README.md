@@ -204,3 +204,7 @@ POST /challans/:id/cancel
 - The frontend does not paginate the customer/product dropdown lookups used inside the Challan form
   (fetches up to 100/200 records) — fine for this scale, would need a searchable async select for a
   much larger catalog.
+
+  ## Author
+     Pavithra Nagineni
+  
